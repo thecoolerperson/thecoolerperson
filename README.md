@@ -1,9 +1,4 @@
-sup im the cooler person
-as in im always cooler than you
-i do some code
-not a lot
-and thats it
-mmbye
+hi, im doing coding for fun, no reason for u to be here, but just in case, hi! (i know my code is bad stfu)
 
 <!---
 thecoolerperson/thecoolerperson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
